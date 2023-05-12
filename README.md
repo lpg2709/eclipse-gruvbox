@@ -56,6 +56,10 @@ is not listed when on the plugins go to `Window > Preferences > Install/Update >
 click on `Add...` on name put `Darkest Dark Theme` and location [https://www.genuitec.com/updates/devstyle/ci/](https://www.genuitec.com/updates/devstyle/ci/).
 And try install the plugin again.
 
+## Contributing
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) to instruction for help to project.
+
 ## License
 
 [MIT License](./LICENSE)
