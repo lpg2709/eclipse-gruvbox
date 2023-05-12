@@ -1,13 +1,13 @@
 # How to contribute
 
-> If you are see this on Githun, this project is a Mirror from [Gitlab repository](https://gitlab.com/lpg2709/eclipse-gruvbox).
+> If you are see this on [Github](https://github.com/lpg2709/eclipse-gruvbox), this project is a Mirror from [Gitlab repository](https://gitlab.com/lpg2709/eclipse-gruvbox).
 
 ## Requirements
 
 To contribute to the development it is necessary to install:
 
 - [Eclipse](https://www.eclipse.org/) or other program based on Eclipse. Like
-[STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) and [DBeaver](https://dbeaver.io/)
+[STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) or [DBeaver](https://dbeaver.io/)
 - [Darkest Dark](https://marketplace.eclipse.org/content/darkest-dark-theme-devstyle)
 plugin from the Eclipse Marketplace.
 
