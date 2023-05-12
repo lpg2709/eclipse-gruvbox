@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="99999" name="Gruvbox Dark Theme" modified="2023-05-08 14:17:00" author="Leonardo Padilha Guarezi (lpg2709)">
+    <!-- From - https://github.com/morhetz/gruvbox
+        235_bg     #282828
+        245_gray   #928374
+        124_red    #cc241d
+        167_red    #fb4934
+        196_green  #98971a
+        142_green  #b8bb26
+        172_yellow #d79921
+        214_yellow #fabd2f
+        169_blue   #458588
+        109_blue   #83a598
+        132_purple #b16286
+        175_purple #d3869b
+        72_aqua    #689d6a
+        108_aqua   #8ec07c
+        245_gray   #a89984
+        223_fg     #ebdbb2
+
+        234_bg0_h  #1d2021
+        235_bg0    #282828
+        236_bg0_s  #32302f
+        237_bg1    #3c3836
+        246_fg4    #a89984
+        239_bg2    #504945
+        248_fg3    #bdae93
+        241_bg3    #665c54
+        256_fg2    #d5c4a1
+        243_bg4    #7c6f64
+        223_fg1    #ebdbb2
+        245_gray   #928374
+        229_fg0    #fbf1c7
+        166_orange #d65d0e
+        208_orange #fe8019
+    -->
+    <searchResultIndication color="#fbf1c7" /> <!-- OK -->
+    <filteredSearchResultIndication color="#ff00ff" /> <!-- For debbug color: undefined -->
+
+    <occurrenceIndication color="#928374" underline="true" />
+    <writeOccurrenceIndication color="#928374" underline="true" />
+    <findScope color="#928374" />
+    <deletionIndication color="#fe8019" />
+
+    <sourceHoverBackground color="#282828" /> <!-- OK -->
+    <singleLineComment color="#928374" italic="false" /> <!-- OK -->
+    <multiLineComment color="#928374" italic="false" /> <!-- OK -->
+
+    <commentTaskTag color="#8ec07c" italic="false" underline="true" strikethrough="false" />
+    <javadoc color="#83a598" italic="false" />
+    <javadocLink color="#8ec07c" italic="false" underline="true" strikethrough="false" />
+    <javadocTag color="#8ec07c" italic="false" />
+    <javadocKeyword color="#8ec07c" italic="false" />
+
+    <class color="#d79921" bold="false" underline="false" strikethrough="false" /> <!-- OK -->
+    <interface color="#8ec07c" />
+    <method color="#8ec07c" />
+    <methodDeclaration color="#b8bb26" />
+
+    <bracket color="#fbf1c7" /> <!-- OK -->
+    <number color="#d3869b" /> <!-- OK -->
+    <string color="#b8bb26" /> <!-- OK -->
+    <operator color="#8ec07c" /> <!-- OK -->
+
+    <keyword color="#fb4934" bold="false" /> <!-- OK -->
+
+    <annotation color="#b8bb26" />
+    <staticMethod color="#b8bb26" />
+
+    <localVariable color="#fbf1c7" />
+    <localVariableDeclaration color="#fb4934" />
+    <field color="#fbf1c7" />
+    <staticField color="#fbf1c7" />
+    <staticFinalField color="#d3869b" />
+    <deprecatedMember color="#fe8019" underline="false" strikethrough="true" />
+    <enum color="#d3869b" />
+    <inheritedMethod color="#b8bb26" />
+    <abstractMethod color="#b8bb26" />
+    <parameterVariable color="#fbf1c7" />
+
+    <typeArgument color="#d79921" /> <!-- OK -->
+    <typeParameter color="#fe8019" />
+    <constant color="#d3869b" />
+
+    <background color="#282828" /> <!-- OK -->
+    <currentLine color="#928374" /> <!-- OK -->
+    <foreground color="#fbf1c7" /> <!-- OK -->
+    <lineNumber color="#928374" /> <!-- OK -->
+    <selectionBackground color="#504945" /> <!-- OK -->
+    <selectionForeground color="#fbf1c7" /> <!-- OK -->
+</colorTheme>
