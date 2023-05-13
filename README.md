@@ -1,5 +1,4 @@
-# Gruvbox for [Eclipse](https://www.eclipse.org/) based on
-[morhetz/gruvbox](https://github.com/morhetz/gruvbox)
+# Gruvbox for [Eclipse](https://www.eclipse.org/) based on [morhetz/gruvbox](https://github.com/morhetz/gruvbox)
 
 > A dark theme for [Eclipse](https://www.eclipse.org/).
 
