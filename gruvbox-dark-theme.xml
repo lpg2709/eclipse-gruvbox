@@ -37,8 +37,8 @@
     <searchResultIndication color="#fbf1c7" /> <!-- OK -->
     <filteredSearchResultIndication color="#ff00ff" /> <!-- For debbug color: undefined -->
 
-    <occurrenceIndication color="#928374" underline="true" />
-    <writeOccurrenceIndication color="#928374" underline="true" />
+    <occurrenceIndication color="#458588" underline="true" />
+    <writeOccurrenceIndication color="#458588" underline="true" />
     <findScope color="#928374" />
     <deletionIndication color="#fe8019" />
 
