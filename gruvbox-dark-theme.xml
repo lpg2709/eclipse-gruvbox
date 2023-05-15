@@ -83,7 +83,7 @@
     <constant color="#d3869b" />
 
     <background color="#282828" /> <!-- OK -->
-    <currentLine color="#928374" /> <!-- OK -->
+    <currentLine color="#32302f" /> <!-- OK -->
     <foreground color="#fbf1c7" /> <!-- OK -->
     <lineNumber color="#928374" /> <!-- OK -->
     <selectionBackground color="#504945" /> <!-- OK -->
